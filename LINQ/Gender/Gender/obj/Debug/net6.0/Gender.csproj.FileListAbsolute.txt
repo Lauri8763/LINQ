@@ -1,0 +1,15 @@
+D:\LINQ\Gender\Gender\bin\Debug\net6.0\Gender.exe
+D:\LINQ\Gender\Gender\bin\Debug\net6.0\Gender.deps.json
+D:\LINQ\Gender\Gender\bin\Debug\net6.0\Gender.runtimeconfig.json
+D:\LINQ\Gender\Gender\bin\Debug\net6.0\Gender.dll
+D:\LINQ\Gender\Gender\bin\Debug\net6.0\Gender.pdb
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\Gender.csproj.AssemblyReference.cache
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\Gender.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\Gender.AssemblyInfoInputs.cache
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\Gender.AssemblyInfo.cs
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\Gender.csproj.CoreCompileInputs.cache
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\Gender.dll
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\refint\Gender.dll
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\Gender.pdb
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\Gender.genruntimeconfig.cache
+D:\LINQ\Gender\Gender\obj\Debug\net6.0\ref\Gender.dll
